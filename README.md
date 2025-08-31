@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=leonik2367&label=Profile%20views&color=0e75b6&style=flat" alt="Lahori Venkatesh" /> 
+  <img src="https://komarev.com/ghpvc/?username=Lahori Venkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="Lahori Venkatesh" /> 
 </p>
 
 <h1 align="center">Hello, I'm Lahori Venkatesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -99,7 +99,7 @@ A platform ensuring **donors see exactly how their contributions are used**.
 <h3 align="left">🔥 Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonik2367&theme=neon-dark" alt="leonik2367" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahori Venkatesh&theme=neon-dark" alt="leonik2367" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ A platform ensuring **donors see exactly how their contributions are used**.
 <h3 align="left">💻 GitHub Profile Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonik2367&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lahori Venkatesh&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonik2367&langs_count=10&show_icons=true&locale=en&theme=neon" height="230px"/>
 </p>
 
@@ -115,14 +115,14 @@ A platform ensuring **donors see exactly how their contributions are used**.
 
 <h3 align="left">⚡ Recent GitHub Activity</h3>
 
-[![Venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LahoriVenkatesh&theme=github-compact)](https://github.com/lahori-venkatesh/github-readme-activity-graph)
+[![Venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lahori-Venkatesh&theme=github-compact)](https://github.com/lahori-venkatesh/github-readme-activity-graph)
 
 ---
 
 <h3 align="left">🏆 GitHub Profile Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonik2367&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="leonik2367" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lahori Venkatesh&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="leonik2367" />
 </p>
 
 ---
