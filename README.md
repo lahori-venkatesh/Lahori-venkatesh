@@ -115,7 +115,7 @@ A platform ensuring **donors see exactly how their contributions are used**.
 
 <h3 align="left">⚡ Recent GitHub Activity</h3>
 
-[![Venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonik2367&bg_color=050505&color=ff0000&line=ff0000&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Venkatesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
