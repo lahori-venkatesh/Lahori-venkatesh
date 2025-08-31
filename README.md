@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://pin.it/4Muy5ZeJW" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1k628AGSF_nawWUZiAfiHKWr7hVsbSBTE" alt="Demo GIF" width="1200" />
+    <img src="https://pin.it/4Muy5ZeJW" alt="Demo GIF" width="1200" />
   </a>
 </p>
 
