@@ -38,8 +38,8 @@ My focus is on building scalable applications ✦ solving problems ✦ and writi
 <h3 align="left">🚀 Tech Journey & Aspirations</h3>
 
 - 🎓 B.Tech Student at **NIT Jaipur**  
-- 💻 Skilled in **Full Stack Development** (React, Node.js, Supabase, Tailwind, TypeScript)  
-- 🚀 Built impactful projects like **FixItCV.com** (AI Resume Builder) & **PDFCircle.com** (privacy-first PDF toolkit)  
+- 💻 Skilled in **Full Stack Development** (React, Node.js, TypeScript, Supabase, Tailwind, MongoDB, Java)  
+- 🚀 Built impactful projects like **Pebly (URL Shortener)**, **API Key Management System**, and **Donation Transparency Tracker**  
 - 🏆 Hackathon builder ✦ love prototyping fast with **AI-powered IDEs**  
 - 🌱 Constantly learning **new frameworks, DevOps tools, and serverless technologies**  
 - 🔍 Actively looking for **SDE Internships & Job opportunities**  
@@ -49,6 +49,32 @@ My focus is on building scalable applications ✦ solving problems ✦ and writi
     <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lahori Venkatesh Resume" />
   </a>
 </p>
+
+---
+
+<h3 align="left">🛠️ Featured Projects</h3>
+
+### 🔗 Pebly – Smart URL Shortener  
+A fast, minimal, and memorable **short URL generator**.  
+- Built with **React.js, Node.js, MongoDB**  
+- Focused on **simplicity and branding**  
+👉 [View Project](#)
+
+---
+
+### 🔑 API Key Management System  
+A secure dashboard to **store, manage, and track API keys** with real-time usage insights.  
+- Backend: **Java + MongoDB**  
+- Feature-rich dashboard with **realtime tracking**  
+👉 [View Project](#)
+
+---
+
+### 📊 Donation Transparency Tracker  
+A platform ensuring **donors see exactly how their contributions are used**.  
+- Features: Donor recognition, NGO proof uploads, social leaderboard  
+- Tech: **MERN Stack**  
+👉 [View Project](#)
 
 ---
 
