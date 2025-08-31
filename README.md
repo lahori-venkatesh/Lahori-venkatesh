@@ -99,7 +99,7 @@ A platform ensuring **donors see exactly how their contributions are used**.
 <h3 align="left">🔥 Streak Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahori Venkatesh&theme=neon-dark" alt="leonik2367" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahori-Venkatesh&theme=neon-dark" alt="leonik2367" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ A platform ensuring **donors see exactly how their contributions are used**.
 <h3 align="left">🏆 GitHub Profile Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lahori Venkatesh&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="leonik2367" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lahori-Venkatesh&layout=compact&theme=juicyfresh&column=4&margin-w=15&margin-h=15" alt="leonik2367" />
 </p>
 
 ---
