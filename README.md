@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Lahori Venkatesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://pin.it/4Muy5ZeJW" target="_blank">
+  <a href="https://drive.google.com/file/d/1ftjM5-DjjUFk0uh0nC7b5h3pxN1wbwBs/view?usp=sharing" target="_blank">
     <img src="https://pin.it/4Muy5ZeJW" alt="Demo GIF" width="1200" />
   </a>
 </p>
