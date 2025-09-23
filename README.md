@@ -45,7 +45,7 @@ My focus is on building scalable applications ✦ solving problems ✦ and writi
 - 🔍 Actively looking for **SDE Internships & Job opportunities**  
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1QQ3SsTVv6dNdwExuzvG49oQ-L6xSIOex/view?usp=sharing" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Lahori Venkatesh Resume" />
   </a>
 </p>
